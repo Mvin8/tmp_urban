@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+Натыкин Максим Викторович
+https://colab.research.google.com/drive/1Jmg5qrGDhl0oKnMvIYEcoEPWchZ97diY?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
